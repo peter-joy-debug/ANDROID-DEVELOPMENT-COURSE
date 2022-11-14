@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LAB 2</string>
+    <string name="greeting">Hello</string>
+    <string name="scotty">Peter</string>
+    <string name="enterName">Enter your Name :</string>
+    <string name="buttonHello">Greet Me</string>
+</resources>
