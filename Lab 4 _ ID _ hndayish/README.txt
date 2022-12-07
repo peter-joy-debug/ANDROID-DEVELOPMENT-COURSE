@@ -1,6 +1,8 @@
 Lab 4 Project
 _____________
 
+- While grading , I would like you to consider the project in (Lab 4 Directory instead of Old Version)
+
 To complete this app, I used the approaches from
 various sources including but not limited to
 the official documentaion of Jetpack Compose 
